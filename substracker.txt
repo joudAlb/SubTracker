@@ -1,0 +1,14 @@
+
+Company name: spotify	Amount of money: 07.80	  Date: 11/12/2022	Subscription type: monthly
+
+Company name: netflix	Amount of money: 24.50	  Date: 28/11/2022	Subscription type: monthly
+
+Company name: hulu	Amount of money: 59.90	  Date: 01/01/2023	Subscription type: yearly
+
+Company name: amazon	Amount of money: 10.90	  Date: 01/01/2023	Subscription type: weekly
+
+Company name: anghami	Amount of money: 05.99	  Date: 05/11/2022	Subscription type: monthly
+
+Company name: youtube	Amount of money: 12.50	  Date: 09/12/2022	Subscription type: monthly
+
+Company name: apple tv	Amount of money: 29.99	  Date: 05/01/2023	Subscription type: monthly
